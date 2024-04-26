@@ -1,17 +1,18 @@
 ## Screenshot Output
 
 ### Menampilkan daftar meja dan menambahkan pelanggan
-<img width="950" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/222d1178-f69d-4b89-a017-31c3a57bc1cc">
+<img width="835" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/6e96441e-c0e5-4e07-8435-23c1ca6f4801">
 
 ### Menampilkan daftar meja setelah menambahkan pelanggan dan mencoba menambahkan menambahkan pelanggan ke meja yang terisi
-<img width="918" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/f6045542-21ed-4b5c-a97f-b3e4bcf452a5">
+<img width="881" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/13feeacb-52ed-47ad-a9bf-b6186de432e0">
 
 ### Menambahkan pesanan
-<img width="938" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/24bd5e5f-fdbd-4847-8f79-e2cc2b5b8426">
+<img width="756" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/7db5bf85-d272-407d-a752-b9c3f4c97bc2">
 
 ### Menghitung total harga yang dipesan dan menampilkan semua pesanan di suatu meja
-<img width="945" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/61a67572-21ad-4475-a43e-30b445300f56">
+<img width="763" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/702f7fd6-0d55-4d14-99e2-e9741c876107">
 
 ### Mengahapus pelanggan dan mencoba menghapus pelanggan pada meja yang kosong
-<img width="951" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/de5c7cd7-1649-447b-b19e-f83fb9bff729">
+<img width="751" alt="image" src="https://github.com/azrielmr12/tugas-2-oop-pengayaan/assets/165233576/e54bdb12-dd2f-4bf7-9a99-baa629f47c54">
+
 
